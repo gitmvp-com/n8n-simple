@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.env
+.env.local
+*.log
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+build/
+coverage/
+db.sqlite
+db.sqlite3
+frontend/dist/
+frontend/node_modules/
